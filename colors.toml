@@ -1,0 +1,39 @@
+# Lawson Morning — a frost-blue winter daylight palette for Omarchy.
+mode = "light"
+
+accent = "#2F6F9F"
+selection = "#B8D9E9"
+selection_background = "#B8D9E9"
+selection_foreground = "#18313D"
+muted = "#78909B"
+
+background = "#EAF3F7"
+dark_background = "#DCE8EE"
+darker_background = "#CADAE2"
+lighter_background = "#F7FBFC"
+
+foreground = "#20343E"
+dark_foreground = "#657D88"
+light_foreground = "#3D5662"
+bright_foreground = "#13262F"
+
+hyprland_active_border = "rgba(2F6F9Fff) rgba(C68A68dd) 35deg"
+hyprland_inactive_border = "rgba(8AA2AEaa)"
+active_border_color = "#2F6F9F"
+active_tab_background = "#CFE4EE"
+
+red = "#A94450"
+yellow = "#80621E"
+orange = "#A95732"
+green = "#3D7057"
+cyan = "#26717A"
+blue = "#2B6994"
+magenta = "#75558B"
+brown = "#755644"
+
+bright_red = "#AF4551"
+bright_yellow = "#84651F"
+bright_green = "#41765B"
+bright_cyan = "#28747C"
+bright_blue = "#2E6E99"
+bright_magenta = "#79598F"
